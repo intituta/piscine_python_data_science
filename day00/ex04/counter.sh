@@ -16,5 +16,5 @@ awk 'BEGIN { FS = OFS = "," }
                 JUN "\n\"Middle\"", 
                 MID "\n\"Senior\"", SEN }
     ') | \
-    sort -t',' -nk2\
+    sort -t',' -nk1\
     >>  hh_uniq_positions.csv
