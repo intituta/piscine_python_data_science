@@ -5,7 +5,7 @@ Module 00 – Piscine Python for Data Science {\
   &emsp;&emsp; You will learn how to use curl, sort, uniq, jq, sed, and cat for data collection and preprocessing.\
 }
 
-Module 00 – Piscine Python for Data Science {\
+Module 01 – Piscine Python for Data Science {\
   &emsp; Intro to Python: Syntax and Semantics\
   &emsp;&emsp; Summary: Today we will help you acquire basic knowledge of the syntax and semantics of Python.\
 }
