@@ -1,20 +1,25 @@
-#!/bin/sh
+#!/bin/bash
 
-if [ $# == 1 ]
+if [ -z "$1" ]
 then
-
-  header=`head -1 $1`
-
-  tail -n +2 $1 | awk 'BEGIN{FS="\",\""} {print $2}'  \
-                | awk 'BEGIN{FS="T"} { print $1 }'    \
-                | uniq                                \
-                | awk -v var="$header" '{ print var > $1 }'
-
-  tail -n +2 $1 | awk 'BEGIN{FS="\",\""}
-                {
-                  print $0 >> substr($2, 0, index($2, "T")-1)
-                }'
-
+    echo "Please enter input file"
 else
-  echo 'Provide 1 path_to_csv_file as an argument!'
+{
+    awk ' BEGIN { FS = "\",\"|T" }
+        {
+            if (NR == 1)
+                START = $0
+            else
+            {
+                if (!($2 in files))
+                {
+                    file = $2".csv"
+                    files[$2]
+                    print START > file
+                }
+                print >> file
+            }
+        }
+        ' $1
+}
 fi
