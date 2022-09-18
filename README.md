@@ -9,3 +9,8 @@ Module 01 – Piscine Python for Data Science {\
   Intro to Python: Syntax and Semantics\
   &emsp;&emsp; Summary: Today we will help you acquire basic knowledge of the syntax and semantics of Python.\
 }
+
+Module 02 – Piscine Python for Data Science {\
+  Intro to Python: OOP skills\
+  &emsp;&emsp; Summary: Today we will help you acquire a basic knowledge of the OOP approach in Python.\
+}
