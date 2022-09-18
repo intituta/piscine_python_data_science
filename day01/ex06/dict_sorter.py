@@ -6,7 +6,7 @@
 #    By: kferterb <kferterb@student.21-school.ru    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/09/17 17:18:53 by kferterb          #+#    #+#              #
-#    Updated: 2022/09/17 17:38:19 by kferterb         ###   ########.fr        #
+#    Updated: 2022/09/18 16:09:37 by kferterb         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -77,7 +77,7 @@ def print_final():
     sorted_dict = check_equals(sorted_dict)
     for key in sorted_dict.keys():
         print(key)
-    # for check
+    #for check
     # print("------------")
     # print_dict(sorted_dict)
 
