@@ -6,13 +6,12 @@
 #    By: kferterb <kferterb@student.21-school.ru    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/09/19 10:09:23 by kferterb          #+#    #+#              #
-#    Updated: 2022/09/19 11:31:54 by kferterb         ###   ########.fr        #
+#    Updated: 2022/09/19 17:57:56 by kferterb         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 import logging
 
-# remark - better keep webhook in .env file for security
 def parameters():
     file = "data.csv"
     num_of_steps = 3
