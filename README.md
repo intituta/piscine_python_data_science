@@ -14,3 +14,9 @@ Module 02 – Piscine Python for Data Science {\
   Intro to Python: OOP skills\
   &emsp;&emsp; Summary: Today we will help you acquire a basic knowledge of the OOP approach in Python.\
 }
+
+Module 03 – Piscine Python for Data Science {\
+  Intro to Python: Package management and virtual environment\
+  &emsp;&emsp; Today we will help you acquire basic knowledge about how to manage\
+  &emsp;&emsp; ibraries in Python and work with virtual environments.\
+}
