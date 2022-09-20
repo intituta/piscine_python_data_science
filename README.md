@@ -21,7 +21,7 @@ Module 03 – Piscine Python for Data Science {\
   &emsp;&emsp; libraries in Python and work with virtual environments.\
 }
 
-Module 03 – Piscine Python for Data Science {\
+Module 04 – Piscine Python for Data Science {\
   Intro to Python: Efficient code practices\
   &emsp;&emsp; Summary: Today we will help you write code that works faster.\
 }
