@@ -6,7 +6,7 @@
 #    By: kferterb <kferterb@student.21-school.ru    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/09/19 12:43:08 by kferterb          #+#    #+#              #
-#    Updated: 2022/09/19 17:33:01 by kferterb         ###   ########.fr        #
+#    Updated: 2022/09/20 14:00:32 by kferterb         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,5 +14,8 @@
 
 import os
 
+def print_virtual_env():
+    print("Your current virtual env is " + os.environ['VIRTUAL_ENV'])
+
 if __name__ == '__main__':
-    print(os.environ['VIRTUAL_ENV'])
+    print_virtual_env()
