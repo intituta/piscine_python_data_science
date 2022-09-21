@@ -6,7 +6,7 @@
 #    By: kferterb <kferterb@student.21-school.ru    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/09/21 16:54:05 by kferterb          #+#    #+#              #
-#    Updated: 2022/09/21 16:54:06 by kferterb         ###   ########.fr        #
+#    Updated: 2022/09/21 16:54:45 by kferterb         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -36,4 +36,3 @@ if __name__ == '__main__':
     except FileNotFoundError as err:
         print('\033[91mException!', err)
 
-# /goinfre/agidget/day04/ratings.csv
