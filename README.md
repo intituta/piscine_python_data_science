@@ -25,3 +25,8 @@ Module 04 – Piscine Python for Data Science {\
   Intro to Python: Efficient code practices\
   &emsp;&emsp; Summary: Today we will help you write code that works faster.\
 }
+
+Module 05 – Piscine Python for Data Science {\
+  Pandas: working with Dataframes\
+  &emsp;&emsp; Summary: Today we will help you acquire skills with Pandas.\
+}
