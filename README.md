@@ -30,3 +30,8 @@ Module 05 – Piscine Python for Data Science {\
   Pandas: working with Dataframes\
   &emsp;&emsp; Summary: Today we will help you acquire skills with Pandas.\
 }
+
+Module 06 – Piscine Python for Data Science {\
+  SQL and Pandas\
+  &emsp;&emsp; Summary: Today we will help you acquire skills with SQL.\
+}
