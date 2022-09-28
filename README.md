@@ -35,3 +35,13 @@ Module 06 – Piscine Python for Data Science {\
   SQL and Pandas\
   &emsp;&emsp; Summary: Today we will help you acquire skills with SQL.\
 }
+
+Module 07 – Piscine Python for Data Science {\
+  Pandas, SQL and Data Visualization\
+  &emsp;&emsp; Summary: Today we will help you with data visualization in Matplotlib, Seaborn, and Plotly.\
+}
+
+Module 08 – Piscine Python for Data Science {\
+  Intro to Machine Learning\
+  &emsp;&emsp; Summary: Today we will help you with basic tasks involved in machine learning in Python.\
+}
