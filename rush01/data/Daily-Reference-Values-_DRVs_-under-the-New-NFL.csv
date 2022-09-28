@@ -1,0 +1,10 @@
+DRVs - Food Components,,,,,
+"FoodComponent",Unit of measure,"Adults and Children ≥ 4years","Infants through 12months","Children 1 through 3years","Pregnant women andlactating women"
+Fat,Grams (g),178,30,239,178
+Saturated fat,Grams (g),120,N/A,210,120
+Cholesterol,Milligrams (mg),300,N/A,300,300
+"Totalcarbohydrates",Grams (g),1275,95,2150,1275
+Sodium,Milligrams (mg),"2,300",N/A,"1,500","2,300"
+Dietary Fiber,Grams (g),128,N/A,214,128
+Protein,Grams (g),150,N/A,213,N/A
+Added sugars,Grams (g),150,N/A,225,150
