@@ -45,3 +45,14 @@ Module 08 – Piscine Python for Data Science {\
   Intro to Machine Learning\
   &emsp;&emsp; Summary: Today we will help you with basic tasks involved in machine learning in Python.\
 }
+
+Module 09 – Piscine Python for Data Science {\
+  Machine Learning: Advanced\
+  &emsp;&emsp; Summary: Today we will help you master advanced tasks involved in machine learning
+in Python.\
+}
+
+Rush 00 – Piscine Python for Data Science {\
+  MovieLens Analytics\
+  &emsp;&emsp; Summary: This rush will help you to strengthen the skills acquired in the previous days\
+}
