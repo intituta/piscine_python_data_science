@@ -56,3 +56,9 @@ Rush 00 – Piscine Python for Data Science {\
   MovieLens Analytics\
   &emsp;&emsp; Summary: This rush will help you to strengthen the skills acquired in the previous days\
 }
+
+Rush 01 – Piscine Python for Data Science {\
+  Food and nutrition\
+  &emsp;&emsp; Summary: This rush will help you to strengthen the skills acquired over the previous
+days\
+}
